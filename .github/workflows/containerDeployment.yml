@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 
 env:
-  IMAGE_BASE_NAME: attz/contactosapi
+  IMAGE_BASE_NAME: rvillatoro/contactosapi
 
 jobs:
   API_Image:
